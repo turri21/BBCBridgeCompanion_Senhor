@@ -1,6 +1,6 @@
 -=(BBCBridgeCompanion_Senhor notes)=-
 
-Tested: Working Video 720p, 1080p & Sound
+Tested: Working Video 720p, 1080p & Sound.
 
 ___
 # BBC Bridge Companion for [MiSTer](https://github.com/MiSTer-devel/Main_MiSTer/wiki)
